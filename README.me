@@ -1,0 +1,1 @@
+Mavis Bacon Teaches Typing, final project for CS3505 taught by James de St. Germain at the University of Utah during the Spring of 2010. A ploy on the Mavis Beacon Teaches Typing series of old, built upon an existing Tetris game implementation using C++.
